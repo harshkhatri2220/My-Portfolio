@@ -6,7 +6,7 @@ import github from "../assets/github.png";
 import javascript from "../assets/javascript.png";
 import node from "../assets/node.png";
 import react from "../assets/react.png";
-import graphql from "../assets/graphql.png";
+import Bootstraplogo from '../assets/Bootstraplogo.png'
 const Technologies = () => {
 
   const techs=[
@@ -55,9 +55,9 @@ const Technologies = () => {
     },
     {
       id : 8,
-      src : graphql,
-        title : "Graphql",
-      style : "shadow-pink-400"
+      src : Bootstraplogo,
+        title : "Bootstrap",
+      style : "shadow-purple-400"
     },
     
     
@@ -75,7 +75,7 @@ const Technologies = () => {
           <h3 className=" font-bold text-4xl inline-block border-b-4 border-b-gray-500 my-5 ">
             Technologies
           </h3>
-          <p className=" text-lg">These are the technoligies I've worked with</p>
+          <p className=" text-lg">These are the technologies I've worked with</p>
         </div>
 
         <div className="grid grid-cols-2   md:grid-cols-3  gap-8  px-4 pl-20">

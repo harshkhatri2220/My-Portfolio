@@ -8,11 +8,11 @@ const About = () => {
       <div className='  font-bold text-4xl border-b-4 inline-block my-5 border-gray-500'>About</div>
 
             <div className=' leading-7 text-lg'>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus reprehenderit delectus facilis ipsam voluptates similique dolorum sint facere repellat sapiente ducimus quisquam laboriosam reiciendis deleniti magni optio veritatis, doloremque at quae rerum consectetur! Perferendis laudantium accusamus dolorem eligendi, error labore mollitia assumenda voluptatum illo itaque veniam dignissimos doloribus obcaecati perspiciatis?</p>
+      <p>I am Harsh Khatri, currently pursuing B-tech from Bhilai Institute Of Technology, Durg(C.G.) (2020-24). My programming journey starts at school, in class 11th I opted for a Computer science subject and I learnt C++ there. This introduction to programming led me to pursue this career. In my second year of college, my team got selected for the finals of Smart India Hackathon 2022. It is a national-level competition organized by the government of India to promote innovation and entrepreneurship. We chose a problem statement and found a solution. This experience taught me so much about problem-solving, critical thinking, teamwork, innovation etc.</p>
 
       <br />
 
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate nostrum saepe minus deleniti corporis dolore dolor voluptas perspiciatis eum ullam facere laborum veritatis non, consectetur impedit molestias porro, alias in! Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ducimus rem ipsam minima recusandae fugit sed nemo doloribus non, eveniet enim nisi voluptatum, ab accusantium suscipit cum fuga. Animi, rerum!</p>
+      <p>Apart from that, one of my greatest experiences is being a part of the top 1% NCC(National Cadet Corps) cadet by being selected for Republic Day Camp 2022, Delhi and feel honoured to salute the Prime Minister of India. I had the opportunity to participate in various activities that helped me develop my leadership, teamwork, and communication skills. I am perseverant and always receptive to new ideas and perspectives, and willing to learn from others. </p>
     </div>
     </div>
     </div>
