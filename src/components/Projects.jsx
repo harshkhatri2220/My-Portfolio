@@ -25,15 +25,15 @@ function Projects() {
         {
             id : 3,
             src : newsApp,
-            Link:"https://harshkhatri2220.github.io/textUtils/",
+            Link:"https://github.com/harshkhatri2220/NewsApp",
             codeLink:"https://github.com/harshkhatri2220/NewsApp"
 
         },
         {
             id : 4,
             src : portfolio,
-            Link:"https://harshkhatri2220.github.io/textUtils/",
-            codeLink:"https://harshkhatri.netlify.app/"
+            Link:"https://harshkhatri.netlify.app/",
+            codeLink:"https://github.com/harshkhatri2220/My-Portfolio/tree/master/src"
 
 
         },
