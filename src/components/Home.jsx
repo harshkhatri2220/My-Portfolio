@@ -8,7 +8,7 @@ const Home = () => {
     <div name="home" className=' flex bg-gradient-to-b from-black to-gray-800 sm:flex flex-col justify-center items-center w-full h-screen md:flex-row sm:pb-20 '>
         <div className='  max-w-lg' >
             <h2 className=' text-white lg:text-7xl sm:pt-48 md:text-6xl  text-5xl md:pt-0 font-bold pt-24'>I'm a Front-end Developer</h2>
-            <p className=' text-gray-500 py-3'> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora architecto reiciendis alias voluptatem nihil earum quasi animi delectus sit, voluptas consequuntur maiores quia assumenda in!</p>
+            <p className=' text-gray-500 py-3'> I am working on web development skills for the past 1 year. Currenty I love to work on web applications using technologies like React, Talwind etc.  </p>
 
         <button  className=' group bg-gradient-to-r from-cyan-500 to-blue-500 text-white rounded-md px-3 py-3 text-base font-medium '> <Link to="projects" smooth duration={500}> Projects<BsArrowRightShort size={20}className=' inline group-hover:rotate-90 duration-300'/></Link>  </button>
         </div>
