@@ -1,58 +1,43 @@
 import React from 'react'
-import arrayDestruct from '../assets/portfolio/arrayDestruct.jpg';
-import installNode from '../assets/portfolio/installNode.jpg';
-import navbar from '../assets/portfolio/navbar.jpg';
-import reactParallax from '../assets/portfolio/reactParallax.jpg';
-import reactSmooth from '../assets/portfolio/reactSmooth.jpg';
-import reactWeather from '../assets/portfolio/reactWeather.jpg';
+
+import textUtils from '../assets/portfolio/textUtils.png'
+import musicApp from '../assets/portfolio/musicApp.png'
+import newsApp from '../assets/portfolio/newsApp.png'
+import portfolio from '../assets/portfolio/portfolio.png'
+
 function Projects() {
 
     const links=[
         {
             id : 1,
-            src : arrayDestruct,
+            src : textUtils,
             Link:"https://harshkhatri2220.github.io/textUtils/",
             codeLink:"https://github.com/harshkhatri2220/textUtils"
             
         },
         {
             id : 2,
-            src : installNode,
-            Link:"https://harshkhatri2220.github.io/textUtils/",
-            codeLink:"https://github.com/harshkhatri2220/textUtils"
+            src : musicApp,
+            Link:"https://harshkhatri2220.github.io/spotifyClone.github.io/",
+            codeLink:"https://github.com/harshkhatri2220/spotifyClone.github.io"
 
         },
         {
             id : 3,
-            src : navbar,
+            src : newsApp,
             Link:"https://harshkhatri2220.github.io/textUtils/",
-            codeLink:"https://github.com/harshkhatri2220/textUtils"
+            codeLink:"https://github.com/harshkhatri2220/NewsApp"
 
         },
         {
             id : 4,
-            src : reactParallax,
+            src : portfolio,
             Link:"https://harshkhatri2220.github.io/textUtils/",
-            codeLink:"https://github.com/harshkhatri2220/textUtils"
+            codeLink:"https://harshkhatri.netlify.app/"
 
 
         },
-        {
-            id : 5,
-            src : reactSmooth,
-            Link:"https://harshkhatri2220.github.io/textUtils/",
-            codeLink:"https://github.com/harshkhatri2220/textUtils"
-
-
-        },
-        {
-            id : 6,
-            src : reactWeather,
-            Link:"https://harshkhatri2220.github.io/textUtils/",
-            codeLink:"https://github.com/harshkhatri2220/textUtils"
-
-
-        },
+        
         
     ];
   return (
